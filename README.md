@@ -7,3 +7,7 @@ Here's a little look at the UI
 
 
 ![UI Image 1](https://i.gyazo.com/9821f67c05f2d0a6c3ef68a5f36e0f85.png)
+
+No errors at all in this source, just make sure to build the project before opening the NordChecker form.
+
+Enjoy!
