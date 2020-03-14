@@ -4,4 +4,4 @@ Source code for my NordVPN Checker. Completely proxyless so you don't have to go
 This is a source built in Visual Studio 2019 using VB.NET, so make sure you have the right version before trying to open.
 
 Here's a little look at the UI
-![ui](https://imgur.com/8McjPpe)
+![Imgur](https://imgur.com/8McjPpe)
